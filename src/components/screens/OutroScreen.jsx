@@ -5,7 +5,7 @@ export default function OutroScreen() {
       className="flex flex-col items-center justify-center p-6 text-center"
     >
       <div className="mb-4">
-        <img src="/gifs/happy.gif" alt="happy gif" className="w-40" />
+        <img src="/Gifs_Final/happy.gif" alt="happy gif" className="w-40" />
       </div>
 
       <h1 className="text-4xl md:text-5xl font-dancing text-rose-500/85 font-semibold mb-3">You're the best</h1>
